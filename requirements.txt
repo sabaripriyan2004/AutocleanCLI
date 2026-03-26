@@ -1,0 +1,6 @@
+pandas
+numpy
+typer
+rich 
+
+pip install -r requirements.txt
