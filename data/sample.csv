@@ -1,0 +1,15 @@
+name,age,salary,city
+Sam,,-10000,Bangalore
+Lily,22,45000,Mumbai
+Arun,35,abc,Delhi
+Meena,29,55000,
+Raj,200,80000,Chennai
+Kiran,27,50000,Chennai
+Kiran,27,50000,Chennai
+Priya,,NaN,Hyderabad
+Vikram,31,70000,123
+Anu,26,48000,Bangalore
+Ravi,NaN,52000,Chennai
+Sneha,24,,Mumbai
+Deepak,28,60000,Chennai
+John,25,50000,Chennai
